@@ -7,7 +7,7 @@
 body {
     min-height: 100vh;
     padding: 58px 24px 80px;
-        background-image:url(/images/bg2.jpg);
+        background-image:url(../images/bg2.jpg);
         background-size: cover;
     color: #fff7df;
     font-family: Georgia, 'Times New Roman', serif;
